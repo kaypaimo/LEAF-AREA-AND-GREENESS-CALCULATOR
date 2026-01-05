@@ -1,0 +1,7 @@
+{
+  "name": "Leaf AREA AND GREENESS CALCULATOR",
+  "description": "An advanced tool for calculating leaf surface area and chlorophyll greenness using computer vision and calibration markers.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
